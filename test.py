@@ -37,7 +37,7 @@ if size == "L":
     else:
         print(f"Your bill is {bill}")
     if extra_cheese == "Y":
-        bill +=1
+        bill +=5
         print(f"Your total bill is {bill}")
     else:
         print(f"your total bill is {bill}")
